@@ -27,6 +27,7 @@ class Inventario {
     }
 }
 
+
     const inventario = Inventario.obtenerInstancia();
     
     inventario.agregarEquipo("Notebook HP", "Portátil", "disponible");
